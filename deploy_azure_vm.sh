@@ -8,10 +8,10 @@ set -e
 # Secrets
 # Put here or export before script run
 # https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-create-service-principal-portal
-AZURE_CLIENT_ID=""
-AZURE_SECRET=""
-AZURE_SUBSCRIPTION_ID=""
-AZURE_TENANT=""
+#AZURE_CLIENT_ID=""
+#AZURE_SECRET=""
+#AZURE_SUBSCRIPTION_ID=""
+#AZURE_TENANT=""
 
 # Vars
 NAME='qctest8'  ### <-- Change Me
