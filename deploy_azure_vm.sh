@@ -15,7 +15,7 @@ AZURE_TENANT=""
 
 # Vars
 NAME='qctest8'  ### <-- Change Me
-DNS_PREFIX='sc'
+DNS_PREFIX='prfx'
 VNET_PREFIX='10.2.0.0'
 DEFAULT_USER='azure'
 VM_SIZE="Standard_DS2_v2"
